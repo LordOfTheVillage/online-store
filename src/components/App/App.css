@@ -1,0 +1,21 @@
+.app {
+  width: 60%;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filters {
+  width: 23.3%;
+  box-sizing: border-box;
+}
+
+.counter {
+  width: auto;
+  text-align: center;
+}
+

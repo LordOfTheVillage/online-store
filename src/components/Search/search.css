@@ -1,0 +1,28 @@
+.search-bar, .search-bar input {
+  width: 100%;
+  position: relative;
+}
+
+.search-bar {
+  margin-bottom: 2%;
+}
+
+.search-bar input {
+  outline: none;
+  height: 35px;
+  border: 1px solid #929699;
+  border-radius: 1px;
+  padding-left: 4.5%;
+  padding-top: 0.3%;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.search-bar .icon {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  top: 60%;
+  left: 1%;
+  margin-top: -12px;
+}

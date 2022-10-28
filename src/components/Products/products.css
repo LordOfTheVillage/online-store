@@ -1,0 +1,15 @@
+.cards {
+  width: 74%;
+  display: grid; 
+  grid-template-columns: 30% 30% 30%;
+  justify-content: space-between;
+}
+
+.no-data {
+  width: 200%;
+  box-sizing: border-box;
+}
+
+.none {
+    display: none;
+}
